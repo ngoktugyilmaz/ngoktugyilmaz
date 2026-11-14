@@ -1,3 +1,3 @@
 # ngoktugyilmaz
 I'm learning Python
-<img src="https://tr.wikipedia.org/wiki/Dosya:Python.SVG">
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1280px-Python.svg.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=thumbnail">
